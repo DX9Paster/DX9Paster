@@ -1,6 +1,6 @@
 - 😄 I'm a nazi
 - 🤔 I Paste fortnite cheats
-- 🤔 "How to print Hello World"
+- 🤔 How to print Hello World?
 - 👯 Quote "Nothings to young"
 
  <!--
