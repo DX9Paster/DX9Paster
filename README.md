@@ -1,7 +1,7 @@
 - 😄 I'm a nazi
 - 🤔 I Paste fortnite cheats
 - 🤔 How to print Hello World?
-- 👯 Quote "Nothings to young"
+- 👯 Quote "Nothings is to young"
 
  <!--
 **DX9Paster/DX9Paster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
