@@ -2,7 +2,7 @@
 - 🤔 I Paste fortnite cheats
 - 💬 How to print Hello World?
 - 👯 Quote "Nothings to young"
-- 🔭 Looking for free 2025 updated externals 
+- 🔭 Looking for Free Vbuck Generator
  <!--
 **DX9Paster/DX9Paster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
