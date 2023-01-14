@@ -1,8 +1,10 @@
-- 😄 I'm a nazi
-- 💬 How to print Hello World?
-- 👯 Quote "Nothings to young"
-- 🤔 I Paste fortnite cheats
-- 🔭 Looking for Free Vbuck Generator
+- 😺 I'm a Southern C++ Developer
+- 😿 I Specialize in Fornite Externals
+- 😻 "Nothings to young"- DaProxy
+- 😹 Bypassing EasyAntiCheat 
+
+![developer-dev-youtube-google](https://user-images.githubusercontent.com/104642778/212450690-45cec879-8149-4248-8464-006650c6258c.gif)
+
  <!--
 **DX9Paster/DX9Paster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
