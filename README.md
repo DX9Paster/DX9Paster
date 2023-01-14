@@ -1,6 +1,6 @@
 - 😺 I'm a Southern C++ Developer
 - 😿 I Specialize in Fornite Externals
-- 😹 Getting Close Cracking EasyAntiCheat
+- 😹 Cracking EasyAntiCheat For HomeWork
 - 😻 "Nothings to young"- DaProxy
 
 ![developer-dev-youtube-google](https://user-images.githubusercontent.com/104642778/212450690-45cec879-8149-4248-8464-006650c6258c.gif)
